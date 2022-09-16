@@ -9,15 +9,17 @@
     </footer>
 </template>
 <style scoped>
-    .footer-menu {
+    footer {
         background-color: #2D0425;
         padding: 40px 0;
         margin: 0 auto;    
     }
     .footer-menu-item {
         text-align: center;
+        color: white;
     }
     .copy-right {
         text-align: center;
+        color: white;
     }
 </style>
