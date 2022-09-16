@@ -15,7 +15,7 @@
                 <li class="business-type-li color-white">ＧＸコンサルティング</li>
             </div>
             <div class="business-type-img">
-                <img src="../assets/img/コンサルティング事業 (1).png" alt="コンサル事業">
+                <img src="../assets/img/コンサルティング事業.png" alt="コンサル事業">
             </div>
         </div>
         <div class="business-type-container">
@@ -29,7 +29,7 @@
                 <li class="business-type-li color-white">経済安全保障</li>
             </div>
             <div class="business-type-img">
-                <img src="../assets/img/リスクマネジメント事業 (1).png" alt="コンサル事業">
+                <img src="../assets/img/リスクマネジメント事業.png" alt="コンサル事業">
             </div>
         </div>
         <div class="business-type-container">
